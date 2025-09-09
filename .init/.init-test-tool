@@ -1,0 +1,4 @@
+{
+    "command": "python manage.py test",
+    "working_directory": "/home/kavia/workspace/code-generation/ad-performance-evaluation-platform-59309-59315/creative_scoring_backend"
+}
